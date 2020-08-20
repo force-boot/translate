@@ -1,7 +1,8 @@
 # translate
 调用方式:[GET|POST]  
 
-请求参数：
+请求参数：  
+
 content： 必填 翻译内容  
 
 to： 选填 翻译目标语种 默认en  
