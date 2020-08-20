@@ -1,20 +1,20 @@
 # translate
 调用方式:[GET|POST]  
 
-请求参数:
-content 必填 翻译内容  
+请求参数：
+content： 必填 翻译内容  
 
-to 选填 翻译目标语种 默认en  
+to： 选填 翻译目标语种 默认en  
 
-from 选填 当前源语言 默认auto 指定可提高准确性  
+from： 选填 当前源语言 默认auto 指定可提高准确性  
 
 dataType: 必填 数据格式 默认json 可string  
 
 请求示例:  
 
-GET:http://translate.xxxxx.cn/translate/json/?content=你好&to=en&from=auto  
+GET：http://translate.xxxxx.cn/translate/json/?content=你好&to=en&from=auto  
 
-POST:http://translate.xxxxx.cn/translate/json/  
+POST：http://translate.xxxxx.cn/translate/json/  
 
 ## 支持语言（部分）：
 中文	zh-CHS  
@@ -105,58 +105,9 @@ POST:http://translate.xxxxx.cn/translate/json/
 
 孟加拉语	bn  
 
-巴斯克语	eu
-白俄罗斯语	be
-宿务语	ceb
-科西嘉语	co
-世界语	eo
-菲律宾语	tl
-弗里西语	fy
-加利西亚语	gl
-格鲁吉亚语	ka
-古吉拉特语	gu
-豪萨语	ha
-夏威夷语	haw
-冰岛语	is
-伊博语	ig
-爱尔兰语	ga
-爪哇语	jw
-卡纳达语	kn
-哈萨克语	kk
-高棉语	km
-库尔德语	ku
-柯尔克孜语	ky
-老挝语	lo
-拉丁语	la
-卢森堡语	lb
-马其顿语	mk
-马尔加什语	mg
-马拉雅拉姆语	ml
-毛利语	mi
-马拉地语	mr
-蒙古语	mn
-缅甸语	my
-尼泊尔语	ne
-齐切瓦语	ny
-普什图语	ps
-旁遮普语	pa
-萨摩亚语	sm
-苏格兰盖尔语	gd
-塞索托语	st
-修纳语	sn
-信德语	sd
-僧伽罗语	si
-索马里语	so
-巽他语	su
-塔吉克语	tg
-泰米尔语	ta
-泰卢固语	te
-乌兹别克语	uz
-南非科萨语	xh
-意第绪语	yi
-约鲁巴语	yo
-南非祖鲁语	zu
-自动识别	auto
+世界语	eo  
+
+自动识别	auto  
 
 
 
