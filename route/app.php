@@ -15,4 +15,4 @@ Route::miss(function() {
 });
 
 // 翻译接口
-Route::rule('translate/:dataType','api.translate/:dataType','GET|POST');
+Route::rule(':dataType','api.translate/:dataType','GET|POST');
