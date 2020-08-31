@@ -1,4 +1,4 @@
-# translate
+# 使用thinkphp6基于有道智云开发的翻译API,可以满足大部分翻译需求
 调用方式:[GET|POST]  
 
 请求参数：  
