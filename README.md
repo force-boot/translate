@@ -17,6 +17,8 @@ GET：http://translate.xxxxx.cn/translate/json/?content=你好&to=en&from=auto
 
 POST：http://translate.xxxxx.cn/translate/json/  
 
+线上实例(更改过路由规则)：http://translate.weixin163.cn/json/content/你好
+
 ## 支持语言（部分）：
 中文	zh-CHS  
 
