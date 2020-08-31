@@ -13,11 +13,11 @@ dataType: 必填 数据格式 默认json 可选 string
 
 请求示例:  
 
-GET：http://translate.xxxxx.cn/translate/json/?content=你好&to=en&from=auto  
+GET：http://translate.xxxxx.cn/json/?content=你好&to=en&from=auto  
 
-POST：http://translate.xxxxx.cn/translate/json/  
+POST：http://translate.xxxxx.cn/json/  
 
-线上实例(更改过路由规则)：http://translate.weixin163.cn/json/content/你好
+线上实例：http://translate.weixin163.cn/json/content/你好
 
 ## 支持语言（部分）：
 中文	zh-CHS  
