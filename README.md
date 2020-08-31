@@ -9,7 +9,7 @@ to： 选填 翻译目标语种 默认en
 
 from： 选填 当前源语言 默认auto 指定可提高准确性  
 
-dataType: 必填 数据格式 默认json 可string  
+dataType: 必填 数据格式 默认json Or string  
 
 请求示例:  
 
